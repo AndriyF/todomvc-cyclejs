@@ -1,0 +1,4 @@
+const ENTER_KEY_CODE = 13
+const ESC_KEY_CODE = 27
+
+export { ENTER_KEY_CODE, ESC_KEY_CODE }
